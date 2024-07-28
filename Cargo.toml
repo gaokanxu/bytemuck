@@ -1,5 +1,5 @@
 [package]
-name = "bytemuck"
+name = "lumos-bytemuck"
 description = "A crate for mucking around with piles of bytes."
 version = "1.16.1"
 authors = ["Lokathor <zefria@gmail.com>"]
