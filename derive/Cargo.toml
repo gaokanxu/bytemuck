@@ -1,5 +1,5 @@
 [package]
-name = "lumos-bytemuck-derive"
+name = "bytemuck-derive"
 description = "derive proc-macros for `bytemuck`"
 version = "1.7.0"
 authors = ["Lokathor <zefria@gmail.com>"]
